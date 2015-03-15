@@ -3,3 +3,15 @@ Makefile.in
 configure
 config.h
 autom4te.cache
+*.o
+
+.deps/
+config.guess
+config.log
+config.status
+config.sub
+root/
+stamp-h1
+tthttpd
+example.conf
+
